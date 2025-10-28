@@ -1,0 +1,44 @@
+{
+  "home": {
+    "hero_title": "EppelStyle",
+    "hero_subtitle": "Ihr Friseurmeister in Eppelborn – mit Herz und Handwerk.",
+    "cta_primary": "Termin vereinbaren",
+    "welcome_title": "Herzlich Willkommen bei EppelStyle",
+    "welcome_text": "Präzise Haarschnitte, moderne Styles und fachkundige Beratung – seit vielen Jahren sind wir Ihre Experten für Haare, Herz und Stil. Ob klassischer Cut, moderner Look oder individuelle Farbberatung – wir nehmen uns Zeit für Sie.",
+    "values_title": "Ihr Meisterbetrieb mit Herz & Stil",
+    "values_subtitle": "Leidenschaft trifft auf Können – bei jedem Schnitt, jeder Farbe, jeder Rasur.",
+    "stats_title": "Momente, die begeistern"
+  },
+  "services": {
+    "hero_title": "Dein Schnitt. Dein Stil. Auf den Punkt.",
+    "hero_subtitle": "Präzise Haarschnitte, saubere Konturen und Beratung, die zu dir passt – für alle: Damen, Herren und Kids.",
+    "intro_title": "Unsere Preisliste",
+    "intro_text": "Wir legen Wert auf Transparenz und faire Preise für erstklassige Beratung und die Verwendung hochwertiger Produkte. Zusatzleistungen oder spezielle Wünsche besprechen wir gerne persönlich mit Ihnen."
+  },
+  "gallery": {
+    "title": "Galerie – Inspiration für deinen nächsten Schnitt",
+    "subtitle": "Präzise Fades, saubere Konturen und Hairstyles, die sitzen. Alle Looks wurden bei EppelStyle in Eppelborn kreiert."
+  },
+  "about": {
+    "hero_title": "Wer wir sind",
+    "hero_subtitle": "Leidenschaft für Haare, Herz für Menschen – willkommen bei EppelStyle.",
+    "vision_title": "Die Vision von EppelStyle",
+    "vision_text": "Inhaber Keanu Ibrahim, Friseurmeister mit über 15 Jahren Erfahrung, verbindet moderne Techniken mit alter Handwerkskunst. Zeit ist bei uns kein Gut, an dem man spart. Jeder Kunde bekommt die Aufmerksamkeit, die er verdient.",
+    "team_title": "Lerne unser Team kennen",
+    "values_title": "Unsere Werte – dein Erlebnis"
+  },
+  "contact": {
+    "hero_title": "Nimm Kontakt auf",
+    "hero_subtitle": "Wir freuen uns auf deine Nachricht oder deinen Anruf für den nächsten Wohlfühl-Termin.",
+    "form_title": "Schreib uns eine Nachricht",
+    "address_title": "Kontaktdaten",
+    "hours_title": "Öffnungszeiten",
+    "social_title": "Social Media",
+    "map_title": "So findest du uns",
+    "visit_title": "Während deines Besuchs"
+  },
+  "footer": {
+    "tagline": "Ihr Friseurmeister in Eppelborn – mit Herz und Handwerk.",
+    "copyright": "© 2025 EppelStyle. Alle Rechte vorbehalten."
+  }
+}

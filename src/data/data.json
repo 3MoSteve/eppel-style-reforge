@@ -1,0 +1,167 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Herrenhaarschnitt (inkl. Lange)",
+      "category": "Men",
+      "description": "Klassischer Haarschnitt mit Beratung und Styling",
+      "base_price": 18,
+      "addons": [
+        { "name": "Maschinenschnitt", "price": 16 },
+        { "name": "Konturen", "price": 5 }
+      ],
+      "duration_min": 30,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "name": "Barber & Pflege",
+      "category": "Men",
+      "description": "Präziser Barber-Schnitt mit Konturenschnitt",
+      "base_price": 18,
+      "addons": [],
+      "duration_min": 30,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "name": "Komplett Bart (Schnitt & Bart)",
+      "category": "Men",
+      "description": "Haarschnitt kombiniert mit professioneller Bartpflege",
+      "base_price": 35,
+      "addons": [],
+      "duration_min": 50,
+      "visible": true
+    },
+    {
+      "id": 4,
+      "name": "Kinderhaarschnitt (bis 10 J.)",
+      "category": "Kids",
+      "description": "Kindgerechter Haarschnitt in entspannter Atmosphäre",
+      "base_price": 16,
+      "addons": [],
+      "duration_min": 25,
+      "visible": true
+    },
+    {
+      "id": 5,
+      "name": "Toner / Grauabdeckung (Herren)",
+      "category": "Coloring",
+      "description": "Natürliche Grauabdeckung oder Farbanpassung",
+      "base_price": null,
+      "addons": [],
+      "duration_min": 45,
+      "visible": true
+    },
+    {
+      "id": 6,
+      "name": "Dauerwelle (Herren)",
+      "category": "Men",
+      "description": "Moderne Textur und Volumen für Herrenhaar",
+      "base_price": null,
+      "addons": [],
+      "duration_min": 90,
+      "visible": true
+    },
+    {
+      "id": 7,
+      "name": "Damenhaarschnitt",
+      "category": "Women",
+      "description": "Individueller Schnitt nach Ihren Wünschen",
+      "base_price": 34,
+      "addons": [],
+      "duration_min": 45,
+      "visible": true
+    },
+    {
+      "id": 8,
+      "name": "Schneiden, Waschen, Föhnen (Kurz)",
+      "category": "Women",
+      "description": "Komplettservice für kurzes Haar",
+      "base_price": 38,
+      "addons": [],
+      "duration_min": 50,
+      "visible": true
+    },
+    {
+      "id": 9,
+      "name": "Waschen & Föhnen/Stylen (Kurz)",
+      "category": "Women",
+      "description": "Professionelles Styling für kurzes Haar",
+      "base_price": 22,
+      "addons": [],
+      "duration_min": 30,
+      "visible": true
+    },
+    {
+      "id": 10,
+      "name": "Färbung (Komplett)",
+      "category": "Coloring",
+      "description": "Vollständige Haarfärbung mit Premium-Produkten",
+      "base_price": null,
+      "addons": [],
+      "duration_min": 120,
+      "visible": true
+    }
+  ],
+  "categories": ["Men", "Women", "Kids", "Coloring", "Beard"],
+  "appointments": [],
+  "messages": [],
+  "reviews": [
+    {
+      "id": 1,
+      "user_id": null,
+      "rating": 5,
+      "title": "Top Service!",
+      "text": "Ich bin seit Jahren Stammkunde und immer zufrieden. Professionell, freundlich und immer ein perfektes Ergebnis!",
+      "approved": true,
+      "created_at": "2025-10-15T10:30:00Z",
+      "author_name": "Dennis K."
+    },
+    {
+      "id": 2,
+      "user_id": null,
+      "rating": 5,
+      "title": "Bester Barber in der Region",
+      "text": "Endlich ein Friseur, der genau weiß, was er tut. Fade ist immer on point!",
+      "approved": true,
+      "created_at": "2025-10-10T14:20:00Z",
+      "author_name": "Mike H."
+    },
+    {
+      "id": 3,
+      "user_id": null,
+      "rating": 5,
+      "title": "Familiäre Atmosphäre",
+      "text": "Tolles Team, angenehme Stimmung und faire Preise. Nur zu empfehlen!",
+      "approved": true,
+      "created_at": "2025-10-05T16:45:00Z",
+      "author_name": "Laura S."
+    }
+  ],
+  "loyalty_rewards": [
+    {
+      "id": 1,
+      "points_needed": 10,
+      "reward_name": "Gratis Herrenhaarschnitt",
+      "description": "Ein kostenloser Herrenhaarschnitt Ihrer Wahl",
+      "service_scope": "Men",
+      "auto_redeem": false
+    },
+    {
+      "id": 2,
+      "points_needed": 20,
+      "reward_name": "Gratis Komplettservice",
+      "description": "Haarschnitt + Bart oder Damenhaarschnitt inkl. Styling",
+      "service_scope": "any",
+      "auto_redeem": false
+    }
+  ],
+  "audit_log": [],
+  "stats": {
+    "revenue_total": 0,
+    "bookings_total": 0,
+    "month_customer_count": 0,
+    "avg_rating": 5.0
+  }
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "admin_id": "100000",
+    "name": "Super Admin",
+    "email": "admin@eppelstyle.de",
+    "password_hash": "$2a$10$demoHashForSuperAdmin",
+    "role": "super_admin",
+    "active": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  }
+]
